@@ -10,10 +10,12 @@ This repository contains materials for SSTealth's self-driven vehicle model part
 ## Introduction
 
 ### Usage
-**ALL LIBRARIRES ARE REQUIRED FOR THE CODE TO RUN CORRECTLY**
+**ALL LIBRARIES ARE REQUIRED FOR THE CODE TO RUN CORRECTLY**
 
 1.⁠ ⁠In Arduino or Arduino IDE, install the libraries, `CytronMotorDriver.h` and `SharpIR.h`
+
 2.⁠ ⁠To use the library for the motor driver, follow the following in Arduino or Arduino IDE: `Sketch --> Include Library --> Cytron Motor Drivers Library`
+
 3. ⁠To use the library for the sharp IR, follow the following in Arduino or Arduino IDE: `Sketch --> Include Library --> SharpIR`
 
 ## Reminders before running the bot
